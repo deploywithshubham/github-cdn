@@ -42,7 +42,7 @@ fi
 backup_all_users;
 
 if [ "$dropbox" = "yes" ]; then
-        sudo /usr/local/hestia/bin/send_site_backup_files_to_dropbox.sh
+        sudo /usr/local/hestia/bin/push-to-dropbox.sh
 fi
 
 #----------------------------------------------------------#

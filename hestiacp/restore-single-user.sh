@@ -4,7 +4,7 @@
 cd /backup/
 
 read -p " Username : " username
-bash /dropbox/dropbox_uploader.sh download "$username".tar
+bash /dropbox/dropbox-uploader.sh download "$username".tar
 
 for file in *.tar
 do
