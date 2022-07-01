@@ -40,7 +40,7 @@ SKIP_EXISTING_FILES=0
 ERROR_STATUS=0
 EXCLUDE=()
 
-#Don't edit these...
+#Donm ..
 API_OAUTH_TOKEN="https://api.dropbox.com/oauth2/token"
 API_OAUTH_AUTHORIZE="https://www.dropbox.com/oauth2/authorize"
 API_LONGPOLL_FOLDER="https://notify.dropboxapi.com/2/files/list_folder/longpoll"
